@@ -1,0 +1,9 @@
+Operation: UPPERCASE
+Line 1: I HAVE A HOLE IN MY SHOES
+
+Operation: CHARACTER COUNT
+Line 1: 25
+
+Operation: WORD COUNT
+Line 1: 7
+
